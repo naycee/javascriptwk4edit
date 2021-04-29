@@ -1,0 +1,18 @@
+{
+  "name": "notesapp-main",
+  "version": "1.0.0",
+  "description": "This is a Javascript Week 4 assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Natiea Cannon",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
